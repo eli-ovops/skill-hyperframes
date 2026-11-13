@@ -1,42 +1,36 @@
-# hyperframes · Agent Skill
+# HyperFrames entry point
 
-hyperframes：Mandatory entry point: read this first for any request to make, create, edit, animate, or render a video, animation, or。
+**Mandatory entry point: read this first for any request to make, create, edit, animate, or render a video, animation, or motion graphic, including a promo, explainer, captioned clip, title card, overlay, slideshow or interactive deck, Remotion port, or any HyperFrames HTML composition.**
 
-## 内容
+## Put it to work
 
-本公开副本包含 17 个来源与许可文件；技能正文、脚本和参考文件按实际保留的包结构组织。
+Mandatory entry point: read this first for any request to make, create, edit, animate, or render a video, animation, or motion graphic, including a promo, explainer, captioned clip, title card, overlay, slideshow or interactive deck, Remotion port, or any HyperFrames HTML composition.
 
-- [`LICENSE`](LICENSE)
-- [`SKILL.md`](SKILL.md)
-- [`references/capability-menu.md`](references/capability-menu.md)
-- [`references/intent-interview.md`](references/intent-interview.md)
-- [`references/pitch-round.md`](references/pitch-round.md)
-- [`references/route-briefs.md`](references/route-briefs.md)
-- [`references/skill-lifecycle.md`](references/skill-lifecycle.md)
-- [`references/workflow-catalog.md`](references/workflow-catalog.md)
-- [`references/routes/faceless-explainer.md`](references/routes/faceless-explainer.md)
-- [`references/routes/general-video.md`](references/routes/general-video.md)
+Start with the [skill instructions](SKILL.md). They describe the intended workflow, tools and inputs. Adapt them to the task and the permissions of the host you are using.
 
-## 使用入口
+This is retained skill material, not proof that a particular agent used it or that it improves results. Provider access and runtime requirements depend on the source package and your environment.
 
-先阅读 [`SKILL.md`](SKILL.md)，确认依赖、数据去向和权限要求后再使用。发布过程没有安装或执行此技能。
+## Current scope
 
-## 来源与许可
+This snapshot includes 17 source files. Original media, databases, private account records and other unprocessed attachments were not included in this text-and-source release.
 
-- 上游：[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
-- [上游技能入口](https://github.com/heygen-com/hyperframes/blob/245904d55a916d5dc6b186dd90790c6e10a74c13/skills/hyperframes/SKILL.md)
-- [上游许可证](https://github.com/heygen-com/hyperframes/blob/main/LICENSE)；类型：Apache-2.0。
-- 来源依据为本机安装器保存的包来源记录；没有把它表述为与最新上游版本逐字一致。
-- 原许可证及署名保存在 LICENSE；新增发布介绍的许可单列在 LICENSE.publication-notes。
-- 包内另有来源的材料按其自身许可处理，未确认的嵌套复制目录仍保留在本地。
+This update improves the English presentation. It does not rerun the project, install a skill, reproduce an old test, or establish production readiness. Some original working documents retain their source language; machine-specific paths or setup assumptions may still need adaptation.
 
-## 当前状态与验证边界
+## Sources and license
 
-- 已完成公开副本整理、来源依据核对和许可证补齐。
-- 未执行技能、安装依赖或验证实际提效，不将静态检查表述为运行验收。
-- 隐私、凭证、原始聊天及尚未确认可公开的材料没有纳入。
-- [来源文件与哈希清单](SOURCE_MANIFEST.csv)
+The original source keeps the license and attribution supplied with the package. See the [retained license](LICENSE) and original notices. New presentation notes, where provided, are licensed separately; they do not relicense upstream work.
 
-## 未纳入的范围
+The license for the added presentation notes is retained in [LICENSE.publication-notes](LICENSE.publication-notes).
 
-- transcript_or_paid_source_not_redistributed：1
+<details>
+<summary>Reference links retained from the source notes</summary>
+
+These links were present in the project material; they have not all been independently reviewed.
+
+- https://github.com/heygen-com/hyperframes
+- https://github.com/heygen-com/hyperframes/blob/245904d55a916d5dc6b186dd90790c6e10a74c13/skills/hyperframes/SKILL.md
+- https://github.com/heygen-com/hyperframes/blob/main/LICENSE
+
+</details>
+
+[Source paths and hashes](SOURCE_MANIFEST.csv)
